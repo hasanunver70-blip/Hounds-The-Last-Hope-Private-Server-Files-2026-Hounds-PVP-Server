@@ -64,7 +64,7 @@ Official Website: cypergm.com
 
 Community: CyperGM Team
 
-Location: Türkiye / Yalova
+Location: -
 
 Specialization: Reverse Engineering & Game Server Development
 
